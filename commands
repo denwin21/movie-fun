@@ -3,3 +3,4 @@ open http://localhost:8080/moviefun
 
 
 ./gradlew replatformingSpringBootification -PmovieFunUrl=https://moviefun-fluent-gerenuk.apps.evans.pal.pivotal.io/
+asdfasdfasdf
